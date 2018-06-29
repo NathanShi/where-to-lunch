@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Show Today's Pick",
+        "command": "where-to-lunch:random-pick"
+      },
+      {
+        "label": "Edit Zipcode",
+        "command": "where-to-lunch:edit"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "where-to-lunch",
+          "submenu": [
+            {
+              "label": "Pick Restaurant",
+              "command": "where-to-lunch:random-pick"
+            },
+            {
+              "label": "Edit Address",
+              "command": "where-to-lunch:edit"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

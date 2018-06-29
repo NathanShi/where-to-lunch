@@ -1,0 +1,28 @@
+{
+  "name": "where-to-lunch",
+  "main": "./lib/where-to-lunch",
+  "version": "0.0.0",
+  "description": "Pick nearby restaurant for lunch for you",
+  "keywords": [
+    "random",
+    "pick",
+    "lunch",
+    "restaurant"
+  ],
+  "author": {
+    "name": "Yibing Shi",
+    "email": "yibingshi94@gmail.com"
+  },
+  "repository": "https://github.com/NathanShi/where-to-lunch.git",
+  "bugs": {
+    "url": "https://github.com/NathanShi/where-to-lunch/issues"
+  },
+  "homepage": "https://github.com/NathanShi/where-to-lunch#readme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
