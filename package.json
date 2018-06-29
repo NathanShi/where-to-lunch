@@ -13,7 +13,7 @@
     "name": "Yibing Shi",
     "email": "yibingshi94@gmail.com"
   },
-  "repository": "https://github.com/NathanShi/where-to-lunch.git",
+  "repository": "git@github.com:NathanShi/where-to-lunch.git",
   "bugs": {
     "url": "https://github.com/NathanShi/where-to-lunch/issues"
   },
