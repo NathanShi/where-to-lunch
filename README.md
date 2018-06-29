@@ -15,26 +15,21 @@ go to the atom package settings and find `where-to-lunch`
 ## Settings
 Go to package manage view to edit configurations.
 You can either
-- Use google map api to get nearby restaurant lists
+- Use google map api to get nearby restaurants list
 - Have your own restaurant lists.
 
 If using google map api, please follow the steps below:
 1. Generate your own API key, please go to [Google place API](https://developers.google.com/places/web-service/get-api-key) and follow instructions.
 2. Input addresses. You can also have settings about **keyword, radius, max price, opennow**
 
-![settings]()
+![settings](where-to-lunch-settings.png)
 
 ## Usage
 To pick a restaurant, use `ctrl-alt-p` or go from `Packages -> where-to-lunch -> Pick Restaurant`
 
-![winner result]()
+![winner result](where-to-lunch-result.png)
 
 If not satisfied, pick it again!
 
 ## Next step
 - allow random function based on reviews of the restaurants
-
-### v0.6.0
-- Add easy configurations.
-  - wrap each url with label and color into object;
-  - allow put less colors for alignment;
