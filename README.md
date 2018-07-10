@@ -33,4 +33,4 @@ To pick a restaurant, use `ctrl-alt-p` or go from `Packages -> where-to-lunch ->
 If not satisfied, pick it again!
 
 ## Next step
-- allow random function based on reviews of the restaurants
+- Gather feedbacks from user
