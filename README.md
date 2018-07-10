@@ -1,4 +1,4 @@
-# Random Select Nearby Restaurant for Lunch
+# Random Pick Nearby Restaurant
 Pick nearby restaurant for lunch for you, so that you don't have to be struggled.
 
 ## Installing
@@ -23,6 +23,7 @@ If using google map api, please follow the steps below:
 2. Input addresses. You can also have settings about **keyword, radius, max price, opennow**
 
 ![settings](where-to-lunch-settings.png)
+![settings](where-to-lunch-preference.png)
 
 ## Usage
 To pick a restaurant, use `ctrl-alt-p` or go from `Packages -> where-to-lunch -> Pick Restaurant`
@@ -32,4 +33,4 @@ To pick a restaurant, use `ctrl-alt-p` or go from `Packages -> where-to-lunch ->
 If not satisfied, pick it again!
 
 ## Next step
-- allow random function based on reviews of the restaurants
+- Gather feedbacks from user
